@@ -19,7 +19,6 @@ class FifthViewController: UIViewController {
 
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
-        
         print("Hi inside of an viewWillAppear method.")
     }
     
